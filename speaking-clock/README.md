@@ -34,12 +34,12 @@ Python 2.7.16
 `0,30 7-22 * * * bash /home/pi/projects/speaking-clock/run.sh`
 
 ## References
-https://elinux.org/RPi_Text_to_Speech_(Speech_Synthesis)
-https://www.raspberrypi.org/forums/viewtopic.php?t=220494
-https://www.raspberrypi.org/forums/viewtopic.php?t=180281
-https://circuitdigest.com/microcontroller-projects/raspberry-pi-based-jarvis-themed-speaking-alarm-clock
-https://www.dronkert.net/rpi/vol.html
-http://www.speech.cs.cmu.edu/flite/doc/flite_toc.html
-http://www.festvox.org/flite/download.html
-http://www.festvox.org/flite/doc/flite_8.html
-https://github.com/festvox/flite
+https://elinux.org/RPi_Text_to_Speech_(Speech_Synthesis)   
+https://www.raspberrypi.org/forums/viewtopic.php?t=220494   
+https://www.raspberrypi.org/forums/viewtopic.php?t=180281   
+https://circuitdigest.com/microcontroller-projects/raspberry-pi-based-jarvis-themed-speaking-alarm-clock   
+https://www.dronkert.net/rpi/vol.html  
+http://www.speech.cs.cmu.edu/flite/doc/flite_toc.html  
+http://www.festvox.org/flite/download.html  
+http://www.festvox.org/flite/doc/flite_8.html  
+https://github.com/festvox/flite  
